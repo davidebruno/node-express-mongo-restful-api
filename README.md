@@ -1,4 +1,4 @@
-# Node Rest API
+# RESTFul API Sample project
 
 Sample REST API that performs CRUD operations, it is implemented in Typescript using Node.js, Express and MongoDB.
 
@@ -6,7 +6,7 @@ Sample REST API that performs CRUD operations, it is implemented in Typescript u
 - Node.js 10+
 - MongoDB
 
--  create the following user under MongoDB
+-  create the following user on MongoDB
 
     db.createUser({ user: "userapp", pwd: "passvalue", roles: [{ role: "dbAdmin", db: "company" }, { role: "readWrite", db: "company" } ]})
 
