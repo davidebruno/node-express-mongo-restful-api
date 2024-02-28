@@ -17,10 +17,10 @@ Sample REST API that performs CRUD operations, it is implemented in Typescript u
 ```bash
 npm install
 ```
-- Check local environment variables
+- Rename the local environment variables fie
 ```shell
 
- .env
+ from env to .env
 ```
 - Start Application
 ```bash
