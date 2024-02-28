@@ -1,0 +1,8 @@
+HOST=http://localhost
+PORT=4500
+
+DB_HOST=127.0.0.1
+DB_PORT=27017
+DB_USER=userapp
+DB_PASS=passvalue
+DB_NAME=company
